@@ -14,8 +14,8 @@ Jupyter Notebook 形式（ipynb形式）となっていますので，ダウン�
 - Matplotlib
 - Sympy
 - JupyterNotebook (JupyterLab)
-- Slycot 0.3.3 以降（0.3.4）
-- Control 0.8.1 以降（0.8.2）
+- Slycot 0.3.3 以降（0.3.5）
+- Control 0.8.1 以降（0.8.3）
 
 ## 書籍のサポートページ
 https://y373.sakura.ne.jp/minami/pyctrl
