@@ -19,3 +19,7 @@ Jupyter Notebook 形式（ipynb形式）となっていますので，ダウン�
 
 ## 書籍のサポートページ
 https://y373.sakura.ne.jp/minami/pyctrl
+
+## Matlabコード
+書籍の中に記載したPythonコードや補足のMATLABコードです．PythonとMATLABの親和性の良さがわかります．
+ライブエディタ形式（mlx形式）となっています．．
