@@ -14,12 +14,16 @@ Jupyter Notebook 形式（ipynb形式）となっていますので，ダウン�
 - Matplotlib
 - Sympy
 - JupyterNotebook (JupyterLab)
-- Slycot 0.3.3 以降（0.3.5）
-- Control 0.8.1 以降（0.8.3）
+- Slycot 0.4.0
+- Control 0.9.1
 
 ## MATLABコード
-書籍の中に記載したPythonコードや補足のMATLABコードです．PythonとMATLABの親和性の良さがわかります．
-ライブエディタ形式（mlx形式）となっています．plot_setとbodeplot_setも同じフォルダに入れてください．
+書籍の中に記載したPythonコードをMATLAB用に書き換えました．PythonとMATLABの親和性の高さがわかります．
+ライブスクリプト形式（mlx形式）となっています．plot_setとbodeplot_setも同じフォルダに入れてください．
+
+## Juliaコード
+書籍の中に記載したPythonコードをJulia用に書き換えました．ただし，数式処理やロバスト制御の部分は実装していません．
+JuliaライブラリのControlSystems, Plots, LinearAlgebraを利用しています．
 
 ## 書籍のサポートページ
 https://y373.sakura.ne.jp/minami/pyctrl
